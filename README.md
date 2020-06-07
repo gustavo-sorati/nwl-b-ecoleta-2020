@@ -1,8 +1,8 @@
-# nwl-b-2020
+# NEXT LEVEL WEEK 2020 - BOOSTER
 Projeto desenvolvido durante a semana Next Level Week 2020 da Rocketseat
 
 
 - [ ] Organizar o Readme.md;
-- [ ] Fazer os desafios;
 - [ ] Rever alguns conceitos;
+- [ ] Fazer os desafios;
 - [ ] Replicar o projeto;
