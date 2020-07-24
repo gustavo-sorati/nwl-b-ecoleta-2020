@@ -14,7 +14,8 @@
     "knex": "^0.21.1",
     "ts-node": "^8.10.2",
     "ts-node-dev": "^1.0.0-pre.44",
-    "typescript": "^3.9.3"
+    "typescript": "^3.9.3",
+     "lodash": ">=4.17.19"
   },
   "dependencies": {
     "@types/cors": "^2.8.6",
